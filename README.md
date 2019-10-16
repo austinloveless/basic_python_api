@@ -1,7 +1,7 @@
 
-# Get Started 
+# To Get Started 
 
-    1. `pip install flask`
+`pip install flask`
 
-    2. `python ./app.py`
+`python ./app.py`
 
